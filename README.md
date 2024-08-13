@@ -1,1 +1,2 @@
-<img src="[http://url.to/image.png](https://i.pinimg.com/564x/27/02/b5/2702b536d2a8afb02082fc854cecb0f4.jpg)" width="200" height="200">
+![cat](![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg))
+
